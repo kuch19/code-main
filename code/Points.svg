@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="2000" height="2000" version="1.1"
+xmlns="http://www.w3.org/2000/svg" style="background-color: white">
+<rect x="0" y="0" width="2000" height="2000" fill="#ffffff" />
+<line x1="100" y1="100" x2="1900" y2="100" stroke="black" />
+<text x="1900" y="100" font-family="Arial" font-size="20">50</text>
+<line x1="100" y1="100" x2="100" y2="1900" stroke="black" />
+<text x="100" y="100" font-family="Arial" font-size="20">0</text>
+<text x="100" y="1900" font-family="Arial" font-size="20">50</text>
+<circle cx="1576.000000" cy="928.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="280.000000" cy="1108.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="1684.000000" cy="1864.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="496.000000" cy="1720.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="1468.000000" cy="748.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="424.000000" cy="208.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="640.000000" cy="496.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="532.000000" cy="928.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="1072.000000" cy="640.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="100.000000" cy="496.000000" r="8" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="944.236311" cy="1119.515850" r="1049.527019" stroke="red" stroke-width="3" fill="transparent" fill-opacity="0" />
+</svg>
